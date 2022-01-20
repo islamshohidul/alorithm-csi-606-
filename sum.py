@@ -1,7 +1,7 @@
 """
 Author: Md Shohidul Islam
 The total sum of an array value will be calculated with this code.
-Algorithm:
+Algorithm: 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
 
 sum(array A)
 	size = A.length
