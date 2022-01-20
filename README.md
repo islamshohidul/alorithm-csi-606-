@@ -1,1 +1,1 @@
-# alorithm-csi-606-
+# algorithm-csi-606-
